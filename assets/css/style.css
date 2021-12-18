@@ -155,3 +155,11 @@ section {
 .steps span {
     font-size: 38px;
 }
+/*REACH OUT STYLES START*/
+.contact {
+    text-align: center;
+    background-color: #024e76;
+  }
+.contact h2 {
+    color:#fce138;
+}
