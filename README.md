@@ -12,4 +12,4 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 made with ❤️ by [Camille]
 
-### &copy2019 Run Buddy, Inc
+### &copy;2019 Run Buddy, Inc
